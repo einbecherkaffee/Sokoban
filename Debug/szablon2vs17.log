@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\chom\dropbox\pp\sokoban\main.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\chom\dropbox\pp\sokoban\main.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\chom\dropbox\pp\sokoban\main.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\chom\dropbox\pp\sokoban\main.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\chom\dropbox\pp\sokoban\main.cpp(307): warning C4018: '<': signed/unsigned mismatch
+c:\users\chom\dropbox\pp\sokoban\main.cpp(309): warning C4018: '<': signed/unsigned mismatch
+c:\users\chom\dropbox\pp\sokoban\main.cpp(319): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\chom\dropbox\pp\sokoban\main.cpp(322): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\chom\dropbox\pp\sokoban\main.cpp(513): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\chom\dropbox\pp\sokoban\main.cpp(516): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  szablon2vs17.vcxproj -> C:\Users\chom\Dropbox\PP\Sokoban\Debug\szablon2vs17.exe
